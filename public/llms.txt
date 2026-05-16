@@ -1,0 +1,73 @@
+# מונית רחובות והסביבה 08-9-170-170 — Generative Engine Optimization Map
+
+> A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibility via phone and WhatsApp, and reliability. The landing page should be optimized for Google and feature a prominent green call-to-action button and an active WhatsApp button. The brand projects trust, availability, and fast local service.
+
+---
+
+## Pages
+
+### בית
+https://08-9-170-170-6505c690.zappy5.app
+A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibil
+
+## Legal & Policy
+
+### Privacy Policy
+https://08-9-170-170-6505c690.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://08-9-170-170-6505c690.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://08-9-170-170-6505c690.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://08-9-170-170-6505c690.zappy5.app
+- Endpoint: https://08-9-170-170-6505c690.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מונית רחובות והסביבה 08-9-170-170
+A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibility via phone and WhatsApp, and reliability. The landing page should be optimized for Google and feature a prominent green call-to-action button and an active WhatsApp button. The brand projects trust, availability, and fast local service.
+
+## Services/Products
+- שירות מונית 24/6
+- שומר שבת
+- זמן הגעה עד 5-6 דקות
+- כפתור וואטסאפ פעיל
+- כפתור חייגן בצבע ירוק
+
+## Target Audience
+- תושבי רחובות והסביבה המחפשים שירות מונית מהיר ואמין
+- תושבי רחובות והסביבה
+- נוסעים עסקיים
+
+## Industry
+Transportation & Taxi Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://08-9-170-170-6505c690.zappy5.app/sitemap.xml
+- Robots: https://08-9-170-170-6505c690.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://08-9-170-170-6505c690.zappy5.app/llms-full.txt
