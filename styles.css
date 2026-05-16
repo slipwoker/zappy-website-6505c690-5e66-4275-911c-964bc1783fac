@@ -6436,6 +6436,17 @@ html[lang="he"] .phone-header-btn,
 }
 /* /Zappy custom logo size */
 
+
+.nav-cta-btn {
+  background-color: #1DB954 !important;
+  color: #ffffff !important;
+  border-color: #1DB954 !important;
+}
+
+.nav-cta-btn:hover {
+  background-color: #17a349 !important;
+  border-color: #17a349 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
