@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://example.com
+https://monit-rehovot-vehaseviva.zappy5.app
 A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibil
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://monit-rehovot-vehaseviva.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://monit-rehovot-vehaseviva.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://monit-rehovot-vehaseviva.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -56,6 +56,6 @@ Transportation & Taxi Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://monit-rehovot-vehaseviva.zappy5.app/sitemap.xml
+- Robots: https://monit-rehovot-vehaseviva.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://monit-rehovot-vehaseviva.zappy5.app/llms-full.txt
