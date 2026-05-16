@@ -6417,6 +6417,19 @@ nav.navbar .sub-menu li a {
 .navbar.scrolled .search-toggle {
   color: #ffffff !important;
 }
+
+@media (max-width: 768px) {
+html[lang="he"] .phone-header-btn,
+  html[dir="rtl"] .phone-header-btn {
+  background-color: var(--accent-color) !important;
+  background: var(--accent-color) !important;
+  color: #ffffff !important;
+  width: 48px !important;
+  height: 48px !important;
+  border-radius: 50% !important;
+  box-shadow: 0 0 0 4px rgba(37,211,102,0.35) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
