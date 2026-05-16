@@ -6134,6 +6134,13 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 #contact .index-contact-section__form-wrapper {
   display: none !important;
 }
+
+
+
+#hero a.index-hero-phone-number {
+  white-space: nowrap !important;
+  font-size: 56px !important;
+}
 /* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
 @media (min-width: 769px) {
   .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
@@ -6149,11 +6156,6 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 }
 /* /Zappy custom logo size */
 
-
-#hero a.index-hero-phone-number {
-  white-space: nowrap !important;
-  font-size: 56px !important;
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
