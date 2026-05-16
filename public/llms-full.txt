@@ -482,6 +482,7 @@ Description: A Shabbat-observant taxi service operating in Rehovot and surroundi
 
 
 
+
 נתוני התחנה
 
 ## מספרים שמדברים בעד עצמם
@@ -495,10 +496,11 @@ Description: A Shabbat-observant taxi service operating in Rehovot and surroundi
 
 
 
-5-6
-דקות
+
+5-6 דקות
 
 זמן הגעה ממוצע
+
 
 
 ARRIVAL TARGET
@@ -508,10 +510,11 @@ ARRIVAL TARGET
 
 
 
+
 24/6
 
-
 זמינות מלאה — שומרי שבת
+
 
 
 ALWAYS ON
@@ -521,10 +524,11 @@ ALWAYS ON
 
 
 
+
 30+
 
-
 ביקורות מאומתות
+
 
 
 VERIFIED REVIEWS
@@ -534,13 +538,26 @@ VERIFIED REVIEWS
 
 
 
-1
-שיחה
+
+1 שיחה
 
 להזמנה מיידית
 
 
+
 DIRECT DISPATCH
+
+
+
+
+
+טקסט כאן
+
+טקסט כאן
+
+
+
+טקסט כאן
 
 
 
