@@ -2,13 +2,13 @@
 
 A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibility via phone and WhatsApp, and reliability. The landing page should be optimized for Google and feature a prominent green call-to-action button and an active WhatsApp button. The brand projects trust, availability, and fast local service.
 
-Source: https://08-9-170-170-6505c690.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שומר שבת — מונית רחובות והסביבה 08-9-170-170
 
-URL: https://08-9-170-170-6505c690.zappy5.app
+URL: https://example.com
 Description: A Shabbat-observant taxi service operating in Rehovot and surrounding areas, available 24/6. The business emphasizes speed (5-6 minute arrival time), accessibil
 
 שומר שבת — מונית רחובות והסביבה 08-9-170-170
@@ -800,7 +800,7 @@ DIRECT DISPATCH
 
 ## מדיניות פרטיות
 
-URL: https://08-9-170-170-6505c690.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1073,7 +1073,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://08-9-170-170-6505c690.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1355,7 +1355,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://08-9-170-170-6505c690.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
